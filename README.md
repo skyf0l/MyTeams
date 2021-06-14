@@ -1,6 +1,8 @@
 # MyTeams
 
-A collaborative communication application like the well known Microsoft Teams
+#### A collaborative communication application like the well known Microsoft Teams
+
+#### 100% success in Epitech's automated tests
 
 # Features
 
