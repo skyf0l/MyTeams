@@ -1,0 +1,31 @@
+# binaries
+myteams_cli
+myteams_server
+a.out
+*debug
+
+# compil
+*.o
+*.d
+*.a
+*.so
+
+# libs
+/include/libs
+
+# tests
+unit_tests*
+*.gcda
+*.gcno
+*.gcov
+
+# debug
+vgcore.*
+
+# other
+.vscode
+*.c.tmp
+*.h.tmp
+*.json
+
+example
